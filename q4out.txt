@@ -1,0 +1,2 @@
+The average is 18
+The standard deviation is 12.3153
